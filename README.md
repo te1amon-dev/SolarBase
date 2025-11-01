@@ -1,2 +1,5 @@
-# SolarBase
-Base for Minecraft 1.8 anti-cheat, Solar
+# Solar Anti-Cheat (Base)
+The base being used for my anti-cheat plugin, Solar.
+
+## Use
+You can use the base for any purpose, just give credit.
